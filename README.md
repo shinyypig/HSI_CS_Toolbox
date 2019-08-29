@@ -6,7 +6,7 @@ This is a matlab toolbox for hyperspectral image compression. The code is derive
 
 ## Installation
 
-Go to the [release page](URL 'https://github.com/shinyypig/HSI_CS_Toolbox/releases') and download the **HSI_CS_Toolbox.mlappinstall** file. Then open your MATLAB to install it, after installation, you can find it in the **APPS** tab.
+Go to the [release page]('https://github.com/shinyypig/HSI_CS_Toolbox/releases') and download the **HSI_CS_Toolbox.mlappinstall** file. Then open your MATLAB to install it, after installation, you can find it in the **APPS** tab.
 
 ## Usage
 
@@ -26,4 +26,4 @@ The app is written in MATLAB 2019a and only tested in 2018a and 2018b. This tool
 
 ## Thanks
 
-The JPEG2000 codec used in this toolbox comes from [OPENJPEG](URL 'https://github.com/uclouvain/openjpeg').
+The JPEG2000 codec used in this toolbox comes from [OPENJPEG]('https://github.com/uclouvain/openjpeg').
