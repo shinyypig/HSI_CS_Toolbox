@@ -7,7 +7,5 @@ This is a matlab toolbox for hyperspectral image compression. The code is derive
 ## GUI
 
 ![Compression Interface](https://github.com/shinyypig/HSI_CS_Toolbox/blob/master/pics/1.jpg)
-
 ![Decompression Interface](https://github.com/shinyypig/HSI_CS_Toolbox/blob/master/pics/2.jpg)
-
 ![Help Interface](https://github.com/shinyypig/HSI_CS_Toolbox/blob/master/pics/3.jpg)
